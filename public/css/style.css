@@ -1,0 +1,53 @@
+.title {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.movie-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px 10px;
+}
+
+.no-movie {
+    display: flex;
+    justify-content: center;
+}
+
+.card-img-top {
+    max-height: 800px;
+    max-width: 400px;
+}
+
+.card-body {
+    max-width: 400px;
+}
+
+.movie-details {
+    margin-top: 30px;
+    margin-left: 600px;
+}
+
+.detail-buttons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.confirm-buttons {
+    display: flex;
+    justify-content: center;
+}
+
+.movie-deleted {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 300px;
+}
+
+.button-message {
+    margin-left: 700px;
+    max-width: 135px;
+    background-color: aqua;
+}

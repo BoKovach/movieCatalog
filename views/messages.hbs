@@ -1,0 +1,22 @@
+{{#if movie}}
+<h1 class="title">New movie - "{{movie.title}}" has been successfuly added!</h1>
+<div class="movie-details">
+    {{>movie-item movie}}
+</div>
+{{/if}}
+
+{{#if isDeleted}}
+<div class="movie-deleted">
+    <h1 class="title">"{{title}}" has been deleted!</h1>
+    <a class="button-message btn btn-primary" href="/movies">Back to the movies</a>
+</div>
+{{/if}}
+
+{{#if isAlreadyExist}}
+<h1 class="title">"{{title}}" already exist</h1>
+<a class="button-message btn btn-primary" href="/add-movie">Try to add another movie</a>
+{{/if}}
+
+{{#if isNotFound}}
+<h1 class="title">"{{title}}" is not found</h1>
+{{/if}}

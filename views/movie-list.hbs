@@ -1,0 +1,10 @@
+<h1 class="title">{{title}}</h1>
+{{#if movies}}
+<ul class="movie-list">
+    {{#each movies}}
+    {{>movie-item}}
+    {{/each}}
+</ul>
+{{else}}
+<h3 class="no-movie">There are no movies yet...</h3>
+{{/if}}

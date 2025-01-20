@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "genre": "Fantasy",
+      "title": "Blade",
+      "year": 1998,
+      "image": "/image/blade.jpeg",
+      "description": "A half-vampire, half-mortal man becomes a protector of the mortal race, while slaying evil vampires."
+    },
+    {
+      "id": 2,
+      "genre": "Science Fiction",
+      "title": "Interstellar",
+      "year": 2014,
+      "image": "/image/interstellar.jpeg",
+      "description": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans."
+    },
+    {
+      "id": 3,
+      "genre": "Fantasy",
+      "title": "Dune: Part One",
+      "year": 2021,
+      "image": "/image/dune-part-one.webp",
+      "description": "Paul Atreides arrives on Arrakis after his father accepts the stewardship of the dangerous planet. However, chaos ensues after a betrayal as forces clash to control melange, a precious resource."
+    },
+    {
+      "id": 4,
+      "genre": "Science Fiction",
+      "title": "The Matrix",
+      "year": 1999,
+      "image": "/image/the-matrix.avif",
+      "description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence."
+    },
+    {
+      "id": 5,
+      "genre": "Action",
+      "title": "Mission: Impossible - Dead Reckoning Part One",
+      "year": 2023,
+      "image": "/image/mission-Impossible-part-one.jpg",
+      "description": "Ethan Hunt and his IMF team must track down a dangerous weapon before it falls into the wrong hands."
+    }
+  ]

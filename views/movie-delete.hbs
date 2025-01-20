@@ -1,0 +1,11 @@
+{{#if currentMovie}}
+<form method="post" action="/{{title}}/details/delete">
+    <h1 class="title">Are you sure delete {{title}}</h1>
+    <div class="confirm-buttons">
+        <button type="submit" class="btn btn-danger">Yes</button>
+        <a href="/{{title}}/details" class="btn btn-secondary">No</a>
+    </div>
+</form>
+{{else}}
+<h1 class="title">{{title}} has been successfuly deleted</h1>
+{{/if}}

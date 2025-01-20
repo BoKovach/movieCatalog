@@ -1,0 +1,73 @@
+[
+  {
+    "genre": "Fantasy",
+    "title": "Blade",
+    "year": 1998,
+    "image": "https://m.media-amazon.com/images/M/MV5BNzAzMmY3OWMtNDgyMS00Y2U4LTlmM2UtY2YwMmM0MDI5ODJmXkEyXkFqcGc@._V1_.jpg",
+    "description": "A half-vampire, half-mortal man becomes a protector of the mortal race, while slaying evil vampires.",
+    "imdb": "https://www.imdb.com/title/tt0120611/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_blade"
+  },
+  {
+    "genre": "Science Fiction",
+    "title": "Interstellar",
+    "year": 2014,
+    "image": "/image/interstellar.jpeg",
+    "description": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans."
+  },
+  {
+    "genre": "Fantasy",
+    "title": "Dune: Part One",
+    "year": 2021,
+    "image": "https://m.media-amazon.com/images/M/MV5BNWIyNmU5MGYtZDZmNi00ZjAwLWJlYjgtZTc0ZGIxMDE4ZGYwXkEyXkFqcGc@._V1_.jpg",
+    "description": "Paul Atreides arrives on Arrakis after his father accepts the stewardship of the dangerous planet. However, chaos ensues after a betrayal as forces clash to control melange, a precious resource.",
+    "imdb": "https://www.imdb.com/title/tt1160419/?ref_=fn_all_ttl_1"
+  },
+  {
+    "genre": "Action",
+    "title": "Mission: Impossible - Dead Reckoning Part One",
+    "year": 2023,
+    "image": "https://m.media-amazon.com/images/M/MV5BN2U4OTdmM2QtZTkxYy00ZmQyLTg2N2UtMDdmMGJmNDhlZDU1XkEyXkFqcGc@._V1_.jpg",
+    "description": "Ethan Hunt and his IMF team must track down a dangerous weapon before it falls into the wrong hands.",
+    "imdb": "https://www.imdb.com/title/tt9603212/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_dead%2520recon"
+  },
+  {
+    "genre": "Science Fiction",
+    "title": "Inception",
+    "year": 2010,
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+    "imdb": "https://www.imdb.com/title/tt1375666/?ref_=fn_all_ttl_1"
+  },
+  {
+    "genre": "Science Fiction",
+    "title": "The Matrix",
+    "year": 1998,
+    "image": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_.jpg",
+    "imdb": "https://www.imdb.com/title/tt0133093/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_matri",
+    "description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence."
+  },
+  {
+    "genre": "Science Fiction",
+    "title": "The Matrix Reloaded",
+    "year": "2003",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjAxYjkxNjktYTU0YS00NjFhLWIyMDEtMzEzMTJjMzRkMzQ1XkEyXkFqcGc@._V1_.jpg",
+    "imdb": "https://www.imdb.com/title/tt0234215/?ref_=fn_all_ttl_3",
+    "description": "Freedom fighters Neo, Trinity and Morpheus continue to lead the revolt against the Machine Army, unleashing their arsenal of extraordinary skills and weaponry against the systematic forces of repression and exploitation."
+  },
+  {
+    "genre": "Science Fiction",
+    "title": "The Matrix Revolutions",
+    "year": "2003",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmNmMTEzODQtNmExMS00OGUxLWFkNTItMTM3NzBlNDk0YWU5XkEyXkFqcGc@._V1_.jpg",
+    "imdb": "https://www.imdb.com/title/tt0242653/?ref_=fn_all_ttl_4",
+    "description": "The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith."
+  },
+  {
+    "genre": "Science Fiction",
+    "title": "The Matrix Resurrections",
+    "year": "2021",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDMyNDIzYzMtZTMyMy00NjUyLWI3Y2MtYzYzOGE1NzQ1MTBiXkEyXkFqcGc@._V1_.jpg",
+    "imdb": "https://www.imdb.com/title/tt10838180/?ref_=fn_all_ttl_2",
+    "description": "Return to a world of two realities: one, everyday life; the other, what lies behind it. To find out if his reality is a construct, to truly know himself, Mr. Anderson will have to choose to follow the white rabbit once more."
+  }
+]
